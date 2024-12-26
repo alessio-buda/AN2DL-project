@@ -3,9 +3,9 @@
 This project has been realized as part of the **Artificial Neural Networks and Deep Learning** course, held at Politecnico di Milano (academic year 2023-24).
 
 ## Team members
-- Alessio Buda
-- Dario Mazzola
-- Gabriele Munafo'
+- Alessio Buda ([GitHub](https://github.com/alessio-buda))
+- Dario Mazzola ([GitHub](https://github.com/DarioMazzola))
+- Gabriele Munafo' ([GitHub](https://github.com/GabrieleMunafo))
 
 ## Course Instructors
 - Prof. Giacomo Boracchi
